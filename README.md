@@ -1,2 +1,5 @@
 # monu_23
-Analysis of the IPL Data using Python with the help of its library like pandas, Matplotib and Seaborn
+IPL Data Analysis using Python and Data Visualization Libraries.
+This repository hosts my IPL Data Analysis project, where I conducted a comprehensive exploration of Indian Premier League (IPL) data using Python programming language along with powerful data manipulation and visualization libraries, including Pandas, Matplotlib, and Seaborn.
+Clone Repository: Clone this repository to your local machine using the following command:
+git clone https://github.com/monu_23/ipl-data-analysis.git
